@@ -17,4 +17,4 @@ A modern, responsive fitness landing page built using HTML, CSS, and JavaScript.
 (Add screenshots here)
 
 ## 🚀 Live Demo
-(Coming soon)
+https://zen03-me.github.io/gymfit-landing-page/
